@@ -188,6 +188,10 @@ Testing followed best practice verification protocols, combining unit tests for 
 - Buffer: 
 - Database setup: 
 
+### Application Snapshots: 
+
+- https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots.md
+
 ### Conclusion
 
 This simulation provides a foundational digital twin for industrial automation,effectively abstracting hardware complexities to provide a robust, software-defined environment for innovation. It proves that critical IIoT development - from control rule-based logic and data architecture to monitoring and safety protocols - can be rigorously tested and validated in a virtual setting, significantly reducing the time, cost, and risk associated with deploying and optimizing physical systems. 

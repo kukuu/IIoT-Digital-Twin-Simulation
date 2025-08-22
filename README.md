@@ -9,6 +9,11 @@ The algorithm employs discrete time-step simulation with three key functions:**s
 
 Leveraging a transformer-based agentic architecture, my full-stack engineering proficiency in software and mechanical engineering systems background enabled a holistic systems - thinking approach, uniquely positioning me to integrate cross - disciplinary insights and deliver an architecturally robust, industrially - grounded solution.
 
+
+https://github.com/kukuu/monitoring-observability/blob/main/appendix/Browser-console-response.md
+
+https://github.com/kukuu/monitoring-observability/blob/main/docs/GPIO-verification-steps.md
+
 ## Task
 
 - https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/TASK_1_-_Conveyor_Belt_Challenge__2_.pdf (PRIVATE)
@@ -53,7 +58,7 @@ These improvements yielded a 40% performance gain in benchmark tests while maint
 
 ### Tools
 
-- https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/tools.md
+- https://github.com/kukuu/raspberry-pie-digital/blob/main/main/appendix/tools.md
   
 ### Installation Guide & Quick Start
 

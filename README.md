@@ -1,5 +1,5 @@
 
-# Industrial Internet of Things  - IIoT
+# Industrial Internet of Things:  IIoT
 
 ## Conveyor Belt Digital Twin Simulation
 

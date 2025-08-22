@@ -8,3 +8,5 @@ https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-sna
 
 - Simulation JSON Response:
 https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-2.png
+
+- Unit Test Response: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-3.png

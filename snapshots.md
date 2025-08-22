@@ -1,5 +1,6 @@
 # Snapshot
 
+- Application Endpoints (terminal execution): https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-7.png
 - Conveyor Belt (Physical): 
 https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-12.png
 

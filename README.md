@@ -1,7 +1,7 @@
 
-# Industrial Internet of Things - Digital Twin Simulation - IIoT
+# Industrial Internet of Things  - IIoT
 
-## Conveyor Belt Simulation
+## Conveyor Belt Digital Twin Simulation
 
 The Conveyor Belt simulation was developed using systematic engineering principles, beginning with modular decomposition of the core components. The solution architecture separates concerns between the belt mechanics (**conveyor.js**), worker coordination (**workers.js**), and hardware interface (**gpio.js**), following industrial control system design patterns. 
 

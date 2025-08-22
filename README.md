@@ -9,8 +9,9 @@ The algorithm employs discrete time-step simulation with three key functions:**s
 
 Leveraging a transformer-based agentic architecture, my full-stack engineering proficiency in software and mechanical engineering systems background enabled a holistic systems - thinking approach, uniquely positioning me to integrate cross - disciplinary insights and deliver an architecturally robust, industrially - grounded solution.
 
+## Task
 
-### Task
+- https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/TASK_1_-_Conveyor_Belt_Challenge__2_.pdf (PRIVATE)
 
 
 
@@ -54,23 +55,26 @@ These improvements yielded a 40% performance gain in benchmark tests while maint
 
 - https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/tools.md
   
+### Installation Guide & Quick Start
+
+- https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/running-simulation.md (PRIVATE)
 
 ### Architecture
 
-- https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/data-architecture.md
+- https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/data-architecture.md (PRIVATE)
 
 ###  Flow Diagram 
-- https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/conveyor-belt-flow-diagram.png
+- https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/conveyor-belt-flow-diagram.png (PRIVATE)
 
 ### Folder Structure:
-- https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/folder-structure.md
+- https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/folder-structure.md (PRIVATE)
 
 ### Repository
-- https://github.com/kukuu/raspberry-pie-digital/tree/main/conveyor-belt-nodejs-JS : PRIVATE
+- https://github.com/kukuu/raspberry-pie-digital/tree/main/conveyor-belt-nodejs-JS : (PRIVATE)
 
 ### Worker Logic
 
-- https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/worker-logic-explanation.md
+- https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/worker-logic-explanation.md (PRIVATE)
 
 
 ### Belt Mechanics for Conveyor Belt
@@ -143,18 +147,18 @@ i.  http://localhost:5000/
 
 Testing followed best practice verification protocols, combining unit tests for individual components (conveyor.test.js) with integration tests for system behavior (simulation.test.js). The test pyramid structure validates 83% of edge cases, including belt overflow scenarios and worker contention handling.
 
-- https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/run-GPIO-tests.md
+- https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/run-GPIO-tests.md (PRIVATE)
 
 ### Run Book
 
-- https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/RunBook.md
+- https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/RunBook.md (PRIVATE)
 
 ### Algorithm Context
 
-- index: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/explanation-index-js.md
-- conveyor belt: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/explanation-conveyor-js.md
-- workers: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/explanations-workers.md
-- gpio: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/gpio-js.md
+- index: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/explanation-index-js.md (PRIVATE)
+- conveyor belt: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/explanation-conveyor-js.md (PRIVATE)
+- workers: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/explanations-workers.md (PRIVATE)
+- gpio: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/gpio-js.md (PRIVATE)
 
 ### Simulation Belt Heartbeat
 
@@ -162,25 +166,25 @@ Testing followed best practice verification protocols, combining unit tests for 
 
 ### Documentation
 
-- Simulation Control Dashboard: https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/simulation-control-dashboad.md
-- Logs: https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/logs.md
-- GPIO Tests: https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/run-GPIO-tests.md
-- GPIO Unit Test Results: https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/GPIO-tests.png
-- Browser Console test - https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/test/conveyor-belt-browser-console-test-response.png
-- GPIO Integration Test Results: https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/run-GPIO-tests.md
-- Monitoring Integration: https://github.com/kukuu/raspberry-pie-digital/tree/main/conveyor-belt-nodejs-JS/docs/monitoring-integration.md
-- GPIO Verification Steps:https://github.com/kukuu/raspberry-pie-digital/blob/main/conveyor-belt-nodejs-JS/docs/GPIO-verification-steps.md
+- Simulation Control Dashboard: 
+- Logs: https:
+- GPIO Tests: 
+- GPIO Unit Test Results:
+- Browser Console test - 
+- GPIO Integration Test Results: 
+- Monitoring Integration: 
+- GPIO Verification Steps:
 
 
 ### Apendix
 
-- Thought Process: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/conveyor-belt-execution-steps.md
-- Conveyor Belt CLASS: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/convey-belt-CLASS.md
-- The Maze: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/conveyor-belt-maze.md
-- Console Browser Test: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/browser-console-test.md
-- Console Browser Response: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/Browser-console-response.md
-- Buffer: https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/conveyor-belt-nodejs-JS.md
-- Database setup - https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/sqLite-db-explanation.md
+- Thought Process: 
+- Conveyor Belt CLASS: 
+- The Maze: 
+- Console Browser Test: 
+- Console Browser Response: 
+- Buffer: https:
+- Database setup: 
 
 ### Conclusion
 

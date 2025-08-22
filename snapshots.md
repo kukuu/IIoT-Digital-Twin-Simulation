@@ -13,4 +13,5 @@ https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-sna
   
 - Dashboard Visualiation 1: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-4.png
   
-- Dashboar Visualisation2: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-5.png
+- Dashboar Visualisation 2: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-5.png
+- Dashboard Visualisaton 3: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-6.png

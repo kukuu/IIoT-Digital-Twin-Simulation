@@ -11,6 +11,7 @@ https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-sna
 https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-2.png
 
 - Unit Test Response: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-3.png
+- GPIO Test: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-9.png
   
 - Dashboard Visualiation 1: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots/cb-snapshot-4.png
   

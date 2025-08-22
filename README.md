@@ -16,7 +16,7 @@ https://github.com/kukuu/monitoring-observability/blob/main/docs/GPIO-verificati
 
 ## Task
 
-- https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/TASK_1_-_Conveyor_Belt_Challenge__2_.pdf (PRIVATE)
+-   https://github.com/kukuu/monitoring-observability/blob/main/appendix/TASK_1_-_Conveyor_Belt_Challenge__2_.pdf (PRIVATE)
 
 
 

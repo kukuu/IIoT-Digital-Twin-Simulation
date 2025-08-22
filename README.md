@@ -185,7 +185,7 @@ Testing followed best practice verification protocols, combining unit tests for 
 - The Maze: 
 - Console Browser Test: 
 - Console Browser Response: 
-- Buffer: https:
+- Buffer: 
 - Database setup: 
 
 ### Conclusion

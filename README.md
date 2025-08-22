@@ -12,9 +12,9 @@ Leveraging a transformer-based agentic architecture, my full-stack engineering p
 
 ### Task
 
-- https://github.com/kukuu/raspberry-pie-digital/blob/main/appendix/TASK_1_-_Conveyor_Belt_Challenge__2_.pdf
 
-### Solution
+
+### Solution Design
 
 - The solution simulates a conveyor belt with 3 worker pairs, where components (A/B) are randomly placed (⅓ chance each). 
 

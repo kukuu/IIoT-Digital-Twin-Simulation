@@ -3,7 +3,7 @@
 
 The Industrial Internet of Things (IIoT) is the network of interconnected sensors, instruments, and machinery embedded in industrial systems, enabling real-time data collection, monitoring, and control through cloud-based platforms. By integrating physical operations with digital intelligence, IIoT transforms traditional industries into smart, data-driven environments. Its benefits are profound: it significantly boosts operational efficiency through predictive maintenance and process automation, reduces downtime and costs by anticipating equipment failures before they occur, enhances safety by monitoring hazardous conditions in real-time, and improves decision-making with actionable analytics derived from machine data. Ultimately, IIoT drives productivity, agility, and innovation across manufacturing, energy, logistics, and other industrial sectors. 
 
-## Conveyor Belt Digital Twin Simulation 
+## Conveyor Belt Digital Twin Simulation  
 
 The Conveyor Belt simulation was developed using systematic engineering principles, beginning with modular decomposition of the core components. The solution architecture separates concerns between the belt mechanics (**conveyor.js**), worker coordination (**workers.js**), and hardware interface (**gpio.js**), following industrial control system design patterns. 
 
